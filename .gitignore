@@ -11,7 +11,7 @@ $RECYCLE.BIN/
 # Directories to ignore
 log/*.*
 Backup/
-*.*.toe
+#*.*.toe
 
 # Files to ignore
 CrashAutoSave.toe
