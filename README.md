@@ -1,2 +1,4 @@
 # Artio
-Generate test grid patterns for multi-display projects
+## Generative pixel maps for multi-display TouchDesigner projects 
+
+🚧 In Development...
