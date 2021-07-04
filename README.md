@@ -5,12 +5,12 @@ Artio is a simple and highly customizable component that generates a pixel map f
 
 ![Artio](/artio.png)
 
-## Inputs:
+## Inputs
 
 - Content TOP parameter - drag and drop your content TOP here so that Artio can pass it through to your main outputs. This way you can easily toggle between the Test Grid (Test Grid Active par) and your content.
 
 
-## Outputs: 
+## Outputs
 
 - out1 - Outputs the test grid as a TOP, per Display replicant.
 
