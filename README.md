@@ -3,7 +3,7 @@
 
 Artio is a simple and highly customizable component that generates a pixel map for each of your displays in a geometry COMP replicator setup, designed for maximum readability and usability for events and performances. It's name (ἄρτιος) is the Greek word for "perfectly aligned."
 
-![Artio](/img/artio.png)
+![Artio](/artio.png)
 
 ## Inputs:
 
