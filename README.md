@@ -1,9 +1,11 @@
-# Artio
+# :clamp: Artio
 
-### Current Version: 0.3.0
-### TouchDesigner Build: 2022.25370 (Windows)
+### Generative pixel maps for multi-display TouchDesigner environments
 
-## Generative pixel maps for multi-display TouchDesigner environments
+#### :floppy_disk: Current Version: 0.3.0
+#### :floppy_disk: TouchDesigner Build: 2022.25370 (Windows)
+
+## Overview 
 
 Artio is a simple and highly customizable TouchDesigner component that generates a pixel map for each of your displays in a geometry COMP replicator setup, designed for maximum readability, customizability and  usability for events and performances. It's name (ἄρτιος) is the Greek word for, "perfectly aligned."
 
