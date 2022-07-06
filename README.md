@@ -1,18 +1,25 @@
 # Artio
-## Generative pixel maps for multi-display TouchDesigner projects
 
-Artio is a simple and highly customizable component that generates a pixel map for each of your displays in a geometry COMP replicator setup, designed for maximum readability and usability for events and performances. It's name (ἄρτιος) is the Greek word for "perfectly aligned."
+### Current Version: 0.3.0
+### TouchDesigner Build: 2022.25370 (Windows)
+
+## Generative pixel maps for multi-display TouchDesigner environments
+
+Artio is a simple and highly customizable TouchDesigner component that generates a pixel map for each of your displays in a geometry COMP replicator setup, designed for maximum readability, customizability and  usability for events and performances. It's name (ἄρτιος) is the Greek word for, "perfectly aligned."
 
 ![Artio](/artio.png)
 
-## Inputs
+## Content Inputs
 
-- Content TOP parameter - drag and drop your content TOP here so that Artio can pass it through to your main outputs. This way you can easily toggle between the Test Grid (Test Grid Active par) and your content.
+- Pixel Map - the default input: Artio's pixel map component.
+- In TOP - simply wire any TOP to an Artio Display geometry component's input, and it will automatically display it.
+- Content TOP - drag and drop your content TOP here and Artio will automatically display it if it detects a valid OP.
+- Content COMP - drag and drop your content Container here and Artio will automatically display it if it detects a valid OP.
 
 
-## Outputs
+## Content Outputs
 
-- out1 - Outputs the test grid as a TOP, per Display replicant.
+- out1 - Outputs the Content Source as a TOP, per Artio Display geometry replicant.
 
 
 ## Parameters
@@ -20,8 +27,9 @@ Artio is a simple and highly customizable component that generates a pixel map f
 
 - Display Name - The name of the display (Wall, Center, Main, Projector 4, Projector 5, etc.)
 - Resolution - The resolution, in pixels, of the display; the geometryCOMP in which the display is rendered contains a rectangleSOP that is set to a size 1/1000th the scale of the resolution (a resolution of 1920 x 1080 renders at a sizex of 1.92 and sizey of 1.08)
-- Test Grid Active - Toggles between content (False) and the Test Grid (True) output
--  Content TOP - The input TOP for content
+- Content Source - Switch between different sources of content
+- Content TOP - The input TOP for content
+- Content COMP - The input COMP for content
 
 ### Text/Logo Parameters:
 
