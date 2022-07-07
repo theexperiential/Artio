@@ -2,7 +2,7 @@
 
 ### Generative pixel maps for multi-display TouchDesigner environments
 
-#### :floppy_disk: Current Version: 0.3.0
+#### :floppy_disk: Current Version: 0.3.1
 #### :floppy_disk: TouchDesigner Build: 2022.25370 (Windows)
 
 ## Overview 
