@@ -74,6 +74,7 @@ Artio is a simple and highly customizable TouchDesigner component that generates
 - Tile Light Colour - The colour of Tiles on the right of each gradient step
 - Tile Dark Colour - The colour of Tiles on the left of each gradient step
 - Tile Number Active - Toggles visibility of Tile number ID texts
+- Tile Number Prefix - String to insert before each number (A1, B1, C1, etc.)
 - Tile Number Colour - The colour and alpha of Tile Number texts
 - Tile Number Size - The height of Tile Numbers, in pixels
 - Tile Diag Lines Active - Toggles visibility of Tile Diagonal ('x') lines
