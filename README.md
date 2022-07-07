@@ -26,7 +26,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 
 
 ## Parameters
-### Display Parameters:
+### Display Page
 
 - Display Name - The name of the display (Wall, Center, Main, Projector 4, Projector 5, etc.)
 - Resolution - The resolution, in pixels, of the display; the geometryCOMP in which the display is rendered contains a rectangleSOP that is set to a size 1/1000th the scale of the resolution (a resolution of 1920 x 1080 renders at a sizex of 1.92 and sizey of 1.08)
@@ -34,7 +34,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - Content TOP - The input TOP for content
 - Content COMP - The input COMP for content
 
-### Text/Logo Parameters:
+### Text/Logo Page
 
 - Name Text Active - Toggles the visibility of the Display Name text
 - Resolution Text Active - Toggles the visibility of the resolution text
@@ -48,7 +48,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - Logo Offset - How far left/right and up/down the logo is offset from its origin
 
 
-### Guidelines Parameters:
+### Guidelines Page
 
 - Line Thickness - How thick or thin guidelines are rendered, in pixels
 - Border Active - Toggles visibility of the outermost border around the entire perimeter of the display
@@ -66,7 +66,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - Circle Colour - The colour and alpha of the Circle Line
 
 
-### Tiles Parameters:
+### Tiles Page
 
 - Tiles Active - Toggles visibility of the Tiles background colour fills
 - Tile Size - The resolution of each tile, in pixels
@@ -84,7 +84,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - BG Colour - The colour and alpha of the Background plate (behind all Tiles; Tiles Active must be set to False in order to display the BG Colour)
 
 
-### Corners Parameters:
+### Corners Page
 
 - Corners Active - Toggles visibility of Corner triangles in each corner of the display map (useful for precisely identifying where the corner of each display is located)
 - Corner Size - The size (width and height) of each corner triangle, in pixels
