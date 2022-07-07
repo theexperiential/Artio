@@ -10,7 +10,7 @@ $RECYCLE.BIN/
 
 # Directories to ignore
 log/*.*
-dev/Backup/
+*Backup/
 #*.*.toe
 
 # Files to ignore
