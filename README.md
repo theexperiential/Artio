@@ -89,3 +89,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - Corners Active - Toggles visibility of Corner triangles in each corner of the display map (useful for precisely identifying where the corner of each display is located)
 - Corner Size - The size (width and height) of each corner triangle, in pixels
 - Corner Colour - The Colour and alpha of each Corner triangle
+
+## Thanks
+
+Shoutout to [Aristotle Roufanis](https://aristotle.photography) for providing the Greek translation.
