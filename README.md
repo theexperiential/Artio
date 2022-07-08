@@ -93,3 +93,5 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 ## Thanks
 
 Shoutout to [Aristotle Roufanis](https://aristotle.photography) for providing the Greek translation.
+
+Many thanks to DVizion for sharing their wonderful [LED Pixelmapper Template](http://www.dvizion.net/portfolio/ffgl-masterfx/), which largely inspired Artio.
