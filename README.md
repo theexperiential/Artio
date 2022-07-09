@@ -9,6 +9,8 @@
 
 Artio is a highly customizable TouchDesigner component that generates a pixel map for each of your displays in a geometry COMP replicator setup. It is designed for maximum clarity and scalability for events and performances. It's name (ἄρτιος) is the Greek word for, "perfectly aligned."
 
+Demo / Setup [YouTube Video](https://youtu.be/lP9wXwb6uHA)
+
 ![Artio Single Raster](/img/artio.png)
 ![Artio Multiple Rasters](/img/render1.png)
 
