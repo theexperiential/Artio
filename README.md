@@ -2,7 +2,7 @@
 
 ### Dynamic pixel map generator for multi-display TouchDesigner environments
 
-#### :floppy_disk: Current Version: 0.3.3
+#### :floppy_disk: Current Version: 0.3.4
 #### :floppy_disk: TouchDesigner Build: 2022.25370 (Windows)
 
 ## Overview 
@@ -95,5 +95,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 ## Thanks
 
 Shoutout to [Aristotle Roufanis](https://aristotle.photography) for providing the Greek translation.
+
+Thank you to Michel Didier / Derivative for performance suggestions.
 
 Many thanks to DVizion for sharing their wonderful [LED Pixelmapper Template](http://www.dvizion.net/portfolio/ffgl-masterfx/), which largely inspired Artio.
