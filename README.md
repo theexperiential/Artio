@@ -32,23 +32,31 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 
 - Display Name - The name of the display (Wall, Center, Main, Projector 4, Projector 5, etc.)
 - Resolution - The resolution, in pixels, of the display; the geometryCOMP in which the display is rendered contains a rectangleSOP that is set to a size 1/1000th the scale of the resolution (a resolution of 1920 x 1080 renders at a sizex of 1.92 and sizey of 1.08)
-- Content Source - Switch between different sources of content
+- Position - Where the Display is rendered within the render top. 1 unit = 1,000 pixels
+- Rotation - The degrees in which the Display is rotated on the z-axis (rz). Useful for portrait display orientations (90 or -90 degrees)
+- Content Source - Switch between different sources of content (Pixel Map, In TOP [wire], TOP or COMP sources)
 - Content TOP - The input TOP for content
 - Content COMP - The input COMP for content
 
-### Text/Logo Page
+### Logo/Text Page
 
+- Logo Active - Toggles visibility of the logo (Banana is default... naturally)
 - Name Text Active - Toggles the visibility of the Display Name text
 - Resolution Text Active - Toggles the visibility of the resolution text
+- Logo/Text Offset - How far left/right and up/down the entire Logo/Text block is positioned, in pixels
+- Logo/Text Rotation - How many degrees the entire Logo/Text block is rotated
+
+- Logo File - The custom logo file to be used (expects an image or movie that a moviefileinTOP can read)
+- Logo Scale - How big or small the logo is rendered
+- Logo Offset - How far left/right and up/down the logo is offset from it's origin
+
 - Text Font - The font used to render the Name, Resolution and grid number IDs
 - Text Colour - The colour and alpha of the text rendered
 - Text BG Colour - The colour and alpha of the plate behind text elements
-- Text Size - The size in vertical pixels of the Name Text (scales Resolution Text proportionally)
-- Logo Active - Toggles visibility of the logo (Banana is default... naturally)
-- Logo File - The custom logo file to be used (expects an image or movie that a moviefileinTOP can read)
-- Logo Scale - How big or small the logo is rendered
-- Logo Offset - How far left/right and up/down the logo is offset from its origin
-
+- Name Text Size - The size in vertical pixels of the Name Text, in pixels
+- W x H Text - Whether the Resolution Text is displayed in "XXX x XXX px" or "W XXX x H XXX" notation
+- Resolution Text Size - The size in vertical pixels of the Resolution Text, in pixels
+- Resolution Text Offset - How far left/right and up/down the Resolution Text is offset from it's origin, in pixels
 
 ### Guidelines Page
 
