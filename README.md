@@ -2,8 +2,8 @@
 
 ### Dynamic pixel map generator for multi-display TouchDesigner environments
 
-#### :floppy_disk: Current Version: 0.3.4
-#### :floppy_disk: TouchDesigner Build: 2022.25370 (Windows)
+#### :floppy_disk: Current Version: 0.3.5
+#### :floppy_disk: TouchDesigner Build: 2022.26590 (Windows)
 
 ## Overview 
 
@@ -91,6 +91,11 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - Corners Active - Toggles visibility of Corner triangles in each corner of the display map (useful for precisely identifying where the corner of each display is located)
 - Corner Size - The size (width and height) of each corner triangle, in pixels
 - Corner Colour - The Colour and alpha of each Corner triangle
+
+## Changelog
+
+- 0.3.5 - Added support for lower resolutions and better text/logo scaling, minor bug fixes
+
 
 ## Thanks
 
