@@ -100,8 +100,18 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - Corner Size - The size (width and height) of each corner triangle, in pixels
 - Corner Colour - The Colour and alpha of each Corner triangle
 
+
+### Export Page
+
+- File Format - The image file format to save to
+- Save Folder - The folder to save the image to. Defaults (when blank) to the project's folder
+- Filename - The name of the file to save to. Remember to keep the file extension (.{me.par.Fileformat}) in this expression or it may break
+- Export Image - Pulse to save out the image. Will overwrite any existing image with the same name. Will also open up a Windows File Explorer window to reveal the file
+
+
 ## Changelog
 
+- 0.3.6 - Added exporting to various image file formats (thank you to Oleksandr Korchuk for this idea)
 - 0.3.5 - Added support for lower resolutions and better text/logo scaling, minor bug fixes
 
 
