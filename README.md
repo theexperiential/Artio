@@ -111,6 +111,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 
 ## Changelog
 
+- 0.3.8 - Added built-in expression for Circle Radius par
 - 0.3.7 - Fixed guideline border vertical line attributes
 - 0.3.6 - Added exporting to various image file formats (thank you to Oleksandr Korchuk for this idea)
 - 0.3.5 - Added support for lower resolutions and better text/logo scaling, minor bug fixes
