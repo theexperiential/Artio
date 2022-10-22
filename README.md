@@ -2,7 +2,7 @@
 
 ### Dynamic pixel map generator for multi-display TouchDesigner environments
 
-#### :floppy_disk: Current Version: 0.3.8
+#### :floppy_disk: Current Version: 0.4.0
 #### :floppy_disk: TouchDesigner Build: 2022.28040 (Windows)
 
 ## Overview 
@@ -101,6 +101,15 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 - Corner Colour - The Colour and alpha of each Corner triangle
 
 
+### Mask Page
+
+- Mask Active - Toggles visibility of a rectangular mask element which can be useful for projection blends
+- Mask Colour - The RGBA color value of the mask
+- Mask Blend - How much alpha the mask lets through to reveal other Artio Displays beneath it. Useful for projection blends
+- Mask Alignment - The alignment of the mask on the display canvas (left, right, top or bottom)
+- Mask Width - The total width (in pixels) of the mask 
+
+
 ### Export Page
 
 - File Format - The image file format to save to
@@ -111,6 +120,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 
 ## Changelog
 
+- 0.4.0 - Added masking for projection blend zones and alpha support between Artio Displays
 - 0.3.8 - Added built-in expression for Circle Radius par
 - 0.3.7 - Fixed guideline border vertical line attributes
 - 0.3.6 - Added exporting to various image file formats (thank you to Oleksandr Korchuk for this idea)
