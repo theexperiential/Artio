@@ -123,4 +123,4 @@ Shoutout to [Aristotle Roufanis](https://aristotle.photography) for providing th
 
 Thank you to Michel Didier / Derivative for performance suggestions.
 
-Many thanks to DVizion for sharing their wonderful [LED Pixelmapper Template](http://www.dvizion.net/portfolio/ffgl-masterfx/), which largely inspired Artio.
+Many thanks to DVizion for sharing their wonderful [LED Pixelmapper Template](http://www.dvizion.net/portfolio/led-pixelmapper/), which largely inspired Artio.
