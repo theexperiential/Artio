@@ -2,8 +2,8 @@
 
 ### Dynamic pixel map generator for multi-display TouchDesigner environments
 
-#### :floppy_disk: Current Version: 0.4.0
-#### :floppy_disk: TouchDesigner Build: 2022.28040 (Windows)
+#### :floppy_disk: Current Version: 0.4.1
+#### :floppy_disk: TouchDesigner Build: 2022.29850 (Windows)
 
 ## Overview 
 
@@ -120,6 +120,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 
 ## Changelog
 
+- 0.4.1 - Added support for non-square tiles and uniform scaling (for multiple pixel pitches), simplified demo setup
 - 0.4.0 - Added masking for projection blend zones and alpha support between Artio Displays
 - 0.3.8 - Added built-in expression for Circle Radius par
 - 0.3.7 - Fixed guideline border vertical line attributes
