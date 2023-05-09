@@ -120,6 +120,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 
 ## Changelog
 
+- 0.4.28 - Added custom parameters for adding/editing/removing displays, fixed numerous bugs
 - 0.4.1 - Added support for non-square tiles and uniform scaling (for multiple pixel pitches), simplified demo setup
 - 0.4.0 - Added masking for projection blend zones and alpha support between Artio Displays
 - 0.3.8 - Added built-in expression for Circle Radius par
