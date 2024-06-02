@@ -31,9 +31,7 @@ Artio is a highly customizable TouchDesigner component that generates a pixel ma
 ### Display Page
 
 - Display Name - The name of the display (Wall, Center, Main, Projector 4, Projector 5, etc.)
-- Resolution - The resolution, in pixels, of the display; the geometryCOMP in which the display is rendered contains a rectangleSOP that is set to a size 1/1000th the scale of the resolution (a resolution of 1920 x 1080 renders at a sizex of 1.92 and sizey of 1.08)
-- Position - Where the Display is rendered within the render top. 1 unit = 1,000 pixels
-- Rotation - The degrees in which the Display is rotated on the z-axis (rz). Useful for portrait display orientations (90 or -90 degrees)
+- Resolution - The resolution, in pixel units, of the display; sets the size of the rectangleSOP which renders an Artio Display
 - Content Source - Switch between different sources of content (Pixel Map, In TOP [wire], TOP or COMP sources)
 - Content TOP - The input TOP for content
 - Content COMP - The input COMP for content
