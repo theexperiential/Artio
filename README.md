@@ -2,7 +2,7 @@
 
 ### Dynamic pixel map generator for multi-display TouchDesigner environments
 
-#### :floppy_disk: version 0.5.270
+#### :floppy_disk: version 0.5.275
 #### :floppy_disk: TouchDesigner 2023.11760 (Windows)
 
 ## Overview 
