@@ -10,8 +10,9 @@ Built with flexibility in mind, Artio seamlessly integrates with your existing c
 Whether you're working on a complex, large-scale installation or a dynamic, multi-display performance, Artio scales effortlessly to meet the demands of your project. By simplifying the technical challenges of pixel mapping, Artio enables you to push the boundaries of your creativity and deliver truly immersive, visually striking experiences to your audience.
 
 Its name (ἄρτιος) is the Greek word for "perfectly aligned."
+
 :point_right: Demo / Setup [YouTube Video](https://youtu.be/lP9wXwb6uHA)
-![Artio Single Raster](/img/artio.png)
+![Artio Single Raster](/img/Display_1.png)
 ![Artio Multiple Rasters](/img/render1.png)
 ## Key Features
 - Dynamic generation of pixel maps for multiple displays
