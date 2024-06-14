@@ -11,7 +11,8 @@ Whether you're working on a complex, large-scale installation or a dynamic, mult
 
 Its name (ἄρτιος) is the Greek word for "perfectly aligned."
 
-:point_right: Demo / Setup [YouTube Video](https://youtu.be/lP9wXwb6uHA)
+:point_right: Demo / Setup [YouTube Video](https://youtu.be/lP9wXwb6uHA) (out of date, to be updated...)
+
 ![Artio Single Raster](/img/Display_1.png)
 ![Artio Multiple Rasters](/img/render1.png)
 ## Key Features
