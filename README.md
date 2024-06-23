@@ -1,6 +1,6 @@
 # :clamp: Artio
 ### The Ultimate Pixel Mapping Toolkit for TouchDesigner Projects
-#### :floppy_disk: version 0.5.427
+#### :floppy_disk: version 0.5.428
 #### :floppy_disk: TouchDesigner 2023.11760 (Windows)
 ## Overview 
 Artio is a powerful, industry-grade TouchDesigner component designed to streamline the creation of pixel-perfect, multi-display layouts for live events and performances. With its intuitive 3D geometry-based approach, Artio simplifies the process of generating precise pixel maps for each display, allowing you to focus on creating stunning visual experiences.
@@ -51,7 +51,8 @@ The `ArtioExt` extension class provides additional functionality to the Artio co
 - Updating the renderTOP resolution based on display sizes and positions
 - Synchronizing the mapping sequence blocks with display changes
 ## Changelog
-- 0.5.427 - Add tile numbering methods, numerous Display add/edit/reorder bug fixes
+- 0.5.428 - Add fps to UI and output annotation improvements
+- 0.5.427 - Add tile numbering methods, numerous Display add/edit/reorder bug fixes, fix Comper pixel offset bug
 - 0.5.410 - Bug fixes with Display creation/deletion/par sync
 - 0.5.407 - Bug fix with Map eval pars
 - 0.5.406 - Fix python storage re-init bug
