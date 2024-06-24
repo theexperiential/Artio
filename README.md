@@ -35,7 +35,7 @@ Its name (ἄρτιος) is the Greek word for "perfectly aligned."
 - Content TOP - drag and drop your content TOP here and Artio will automatically display it if it detects a valid OP.
 - Content COMP - drag and drop your content Container here and Artio will automatically display it if it detects a valid OP.
 ## Mapping Outputs
-- Map COMP - Outputs the pixel map as a TOP, customizable uing the Artio COMP's Map page.
+- Map COMP - Outputs the pixel map as a TOP, customizable using the Artio COMP's Map page.
 ## Display Custom Parameters
 - Display - Configure display name, resolution, position, rotation, scale, and color.
 - Logo/Text - Customize the logo, display name text, and resolution text.
