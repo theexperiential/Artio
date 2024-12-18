@@ -15,4 +15,4 @@ log/*.*
 # Files to ignore
 CrashAutoSave.toe
 *.dmp
-*.*.toe
+*.[0-9]*.toe
